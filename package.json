@@ -1,0 +1,16 @@
+{
+  "name": "weatherappnodejs",
+  "version": "1.0.0",
+  "description": "Syed Muzammil Ashfaque CreateWeather App With  Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Muzammil Ashfaque",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
